@@ -15,10 +15,6 @@ def get_video_info(url):
         'extract_flat': False,
         'skip_download': True,
         'force_generic_extractor': False,
-
-        # ✅ ADD THIS HERE
-        'impersonate': ImpersonateTarget("chrome", None, None, None),
-
         'retries': 5,
         'fragment_retries': 5,
         'socket_timeout': 30,
