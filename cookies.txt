@@ -15,7 +15,6 @@ noodlemagazine.com	FALSE	/	FALSE	1807712323	__PPU_puid	16814823403712706750
 .youtube.com	TRUE	/	TRUE	1790435604	__Secure-ROLLOUT_TOKEN	CLnpuvevxsry6AEQ2tnwuNXFkwMYsoGe1vTHkwM%3D
 .youtube.com	TRUE	/	TRUE	1790435604	VISITOR_INFO1_LIVE	foUwTNZbojE
 .youtube.com	TRUE	/	TRUE	1790435604	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgKQ%3D%3D
-.youtube.com	TRUE	/	TRUE	1774885404	GPS	1
 .xhamster1.desi	TRUE	/	FALSE	1806393250	cookie_accept_v2	%7B%22e%22%3A1%2C%22f%22%3A1%2C%22t%22%3A1%2C%22a%22%3A1%7D
 .xhamster1.desi	TRUE	/	FALSE	1775462505	x_viewes	%5B29081455%2C25443157%5D
 .xhamster1.desi	TRUE	/	FALSE	1777450614	x_content_preference_index	straight
@@ -30,7 +29,6 @@ hotntubes.com	FALSE	/	FALSE	1809443279	uridur	uZmSEEShzbUJ-1774883280
 hotntubes.com	FALSE	/	FALSE	1809443281	__suvt	311e1d7681b0ab78b961a3415d26eb94
 luluvid.com	FALSE	/d	FALSE	1774919323	file_id	14767922
 www.wikipedia.org	FALSE	/	TRUE	1777644284	WMF-Last-Access	30-Mar-2026
-www.wikipedia.org	FALSE	/	TRUE	1774886501	NetworkProbeLimit	0.001
 .wikipedia.org	TRUE	/	TRUE	1777644284	WMF-Last-Access-Global	30-Mar-2026
 .wikipedia.org	TRUE	/	TRUE	0	GeoIP	IN:TN:Chennai:13.09:80.27:v4
 .wikipedia.org	TRUE	/	TRUE	1806372284	WMF-Uniq	W6yQMsid14UZn4ibioxqOwMzAAAAAFvd9mGzK3u8fCBvuCoZ9dJuEaZz4zsymK2S
@@ -41,10 +39,7 @@ pornzog.com	FALSE	/	FALSE	0	ASPro_ee8bef88b5ab18ebecfc6d0eddceb498	rn6ebnum1b10m
 .pornzog.com	TRUE	/	FALSE	1806419009	_ym_uid	1774883009720477708
 .pornzog.com	TRUE	/	FALSE	1806419009	_ym_d	1774883009
 .pornzog.com	TRUE	/	FALSE	1774955009	_ym_isad	2
-.pornzog.com	TRUE	/	FALSE	1774884810	_ym_visorc	b
 redwap-xxx.com	FALSE	/	FALSE	1809443129	__suvt	ec78eef69cee95720a860ca418202d84
-redwap-xxx.com	FALSE	/	FALSE	1774886730	pp_main_6e39317ac3548ba0b9e70a04f88578f3	1
-redwap-xxx.com	FALSE	/	FALSE	1774886732	pp_sub_6e39317ac3548ba0b9e70a04f88578f3	1
 .redwap-xxx.com	TRUE	/	FALSE	0	dom3ic8zudi28v8lr6fgphwffqoz0j6c	86620586-7e3c-4e70-8575-99ec6c4c782d%3A2%3A1
 .mydesi2.net	TRUE	/	FALSE	1809443246	_ga_EF1YG8WM6L	GS2.1.s1774883220$o1$g1$t1774883246$j34$l0$h0
 .mydesi2.net	TRUE	/	FALSE	1809443246	_ga	GA1.1.1801773042.1774883220
@@ -62,13 +57,11 @@ go.xlivrdr.com	FALSE	/	TRUE	1777475250	_var	775617.35314_MGI4MGI0MDg=
 .stripchatgirls.com	TRUE	/	FALSE	1806345000	ABTest_ab_openapi_contract_validation_key	N_664
 .stripchatgirls.com	TRUE	/	FALSE	1806345000	ABTest_ab_streaming_lungo_player_v4_key	X_664
 .stripchatgirls.com	TRUE	/	FALSE	1806345000	ABTest_ab_test_parallel_testing_1_v8_key	B_664
-.stripchatgirls.com	TRUE	/	TRUE	1774885040	__cf_bm	CR6BxEFBFyVBWyF1dX6leDR74LVkMQmGmbfbT.yo8UA-1774883241.4874985-1.0.1.1-Xxe3NMwqTBkifVzRB_iQU4_lwLZjIUZlIwMfUI9zbiuol8qG8oFFe3jJUPULa_jv3qZl4m6fQ7lExwiUH4QJhyyZCo_B1PtjgTTYHdHvpbFBDNxo1RZUwgGWlITEdfvdYkW1n6jRQfKvoKMYqfx_Vg
 .stripchatgirls.com	TRUE	/	TRUE	1782659239	stripchatgirls_com_guestId	53d215eddd033908b1a4c43092b4a34d43920310ae9def2fd3393e27bdfa
 .stripchatgirls.com	TRUE	/	FALSE	1806419239	stripchatgirls_com_firstVisit	2026-03-30T15%3A07%3A20Z
 .stripchatgirls.com	TRUE	/	FALSE	1806419242	isRecommendationDisabled	false
 .stripchatgirls.com	TRUE	/	FALSE	1782659242	localeDomain	en
 .stripchatgirls.com	TRUE	/	FALSE	1806419242	alreadyVisited	1
-.assets.chapturist.com	TRUE	/	TRUE	1774885056	__cf_bm	NVhCNTaZjscRO6h9pS98MNLthbVdGsOUYx.oADQyNKI-1774883257.5821939-1.0.1.1-KVNhtu7vQAWZ6YGmrj4ssbn_8IfYzpCruLiBAI4jJUtMgFrs1iJpf9KCCMaNjEEFuDXPPkQTvdH3LOfJJqWf8bGHNT3WoRI6ARPcqJwCSQO8kkPFAVT3C0IJZp3V_Y8k
 stripchatgirls.com	FALSE	/	FALSE	1806419242	mab_featured_group	0
 .stripchat.com	TRUE	/	FALSE	1806345000	ABTest_ab_pls_b_v2_key	N_352
 .stripchat.com	TRUE	/	FALSE	1806345000	ABTest_ab_messenger_private_tip_redesign_key	A_352
@@ -76,7 +69,6 @@ stripchatgirls.com	FALSE	/	FALSE	1806419242	mab_featured_group	0
 .stripchat.com	TRUE	/	FALSE	1806345000	ABTest_ab_openapi_contract_validation_key	N_352
 .stripchat.com	TRUE	/	FALSE	1806345000	ABTest_ab_streaming_lungo_player_v4_key	X_352
 .stripchat.com	TRUE	/	FALSE	1806345000	ABTest_ab_test_parallel_testing_1_v8_key	B_352
-.stripchat.com	TRUE	/	TRUE	1774885061	__cf_bm	8jpRNM7SIPS9UvTNRryVZay4u2l43e3hslEKoofEhco-1774883262.8871381-1.0.1.1-Kk3acxymhh0BTRhPgGiif5U2AIv0OKPuzzdf3hYwTqce6aDg.PQESRD.L54Ufzm30k0GeYdKjKDeFYug0xG0bpAEwXqplKapx3NSwmFdPHbNJ73um6HzslxUoU6sWXqRN8r33azLEwB20D7kjt5UdQ
 .stripchat.com	TRUE	/	TRUE	0	_cfuvid	Fisz7erWZCKKd4h9fCdWeuqKGOYSzeLr19rCf003fTo-1774883255.2993-1.0.1.1-KUBXE8CSJ9.uICpBia2Ddkk47IPKHuIlPX5JhWfo4yw
 .stripchat.com	TRUE	/	TRUE	1782659254	stripchat_com_guestId	bbd39405dee0a660a3d8d795ff02ba9909ca8bd9e2e2c70e44e8c9ac5929
 .stripchat.com	TRUE	/	FALSE	1806419254	stripchat_com_firstVisit	2026-03-30T15%3A07%3A35Z
@@ -103,12 +95,10 @@ upfilesgo.com	FALSE	/	FALSE	1775488113	upfiles_session	eyJpdiI6ImJBOGtXbnJlemtNQ
 .luluvid.com	TRUE	/	FALSE	0	lang	1
 .uncocleypercha.com	TRUE	/	TRUE	1809443349	_ccid	8808081341569656206
 .fhgte.com	TRUE	/	TRUE	0	PHPSESSID	b7298157bed77a80e3b74f81314b37ae
-.fhgte.com	TRUE	/	TRUE	1774885150	__cf_bm	C47guOyu89dV4DJyHvpVeC7tAAIqABJkcZ28Y3hjryo-1774883351.2426884-1.0.1.1-3q23lNX4_ORZ8_uh.cR4Cpfeuh2Y6dBGZSNzDd8Rwfth3TpP1hEZvOQ6oXPhkqIrIezlTtus1QcvqSmb.bOF4jCWOJfhhoiCMAIXWmVkfzkAWo_NeDtRIwEVK.qvB._n
 .faphouse2.com	TRUE	/	TRUE	0	PHPSESSID	01b64b0ee71587a8b84511a109c81685
 .faphouse2.com	TRUE	/	FALSE	1774969751	prs	60756128328af2244ca234cc63c74870%3AYCZ%7C29581388-36784-ex.uncocleypercha.com%7Crem_%7BpublisherId%7D%3A69ca9217%3Ae10
 .faphouse2.com	TRUE	/	TRUE	1806419351	affiliate	cc001d66dc5907bddd4e307cccc809bcb12e682569a7fd6fb7159970091e8466a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22affiliate%22%3Bi%3A1%3Bs%3A752%3A%22eyJhZmZfY2FtcF9rZXkiOiJyZW1fe3B1Ymxpc2hlcklkfSIsImFmZl9wcm9tb19pZCI6IllDWiIsImFmZl9yZWZfZG9tIjoiMjk1ODEzODgtMzY3ODQtZXgudW5jb2NsZXlwZXJjaGEuY29tIiwiYWZmX3NyY19wcmVmIjoidW5jb2NsZXlwZXJjaGEiLCJhZmZfY2hfbW9kZSI6ImZhcGNhc2giLCJhZmZfY2xpY2tfdHMiOiIxNzc0ODgzMzUxIiwiYWZmX2JhY2tsaW5rIjoiaHR0cHM6Ly8yOTU4MTM4OC0zNjc4NC1leC51bmNvY2xleXBlcmNoYS5jb20vIiwiYWZmX2NvbnRlbnRfdGFnIjoicmVtX3twdWJsaXNoZXJJZH0iLCJhZmZfc3JjX25ldCI6IjI5NTgxMzg4LTM2Nzg0LWV4LnVuY29jbGV5cGVyY2hhLmNvbSIsImFmZl9rZXkiOiJZQ1oiLCJhdHRyX2dycCI6ImZhcGNhc2giLCJhdHRyX3BhcnRuZXJfYWxpYXMiOiJZQ1oiLCJhdHRyX2Rpc3RfY2hhbm5lbCI6ImFmZmlsaWF0ZSIsImF0dHJfb2ZmZXJfdGFnIjoicmVtX3twdWJsaXNoZXJJZH0iLCJhdHRyX2FmZl9sYWJlbCI6IllDWiIsImF0dHJfaG9zdF9hcmVhIjoidW5jb2NsZXlwZXJjaGEuY29tIiwiYXR0cl90cyI6MTc3NDg4MjgwMH0%3D%22%3B%7D
 .faphouse2.com	TRUE	/	TRUE	1806419351	guid	0cyomc5p2hhc00ss4gcgk0soco
-.faphouse2.com	TRUE	/	TRUE	1774885158	__cf_bm	xSDaM5_bWtgRAewn1FSjinELzSYvjKrccxjK174qKDk-1774883359.351334-1.0.1.1-.Sq9P9OVrxVp_kYalW3.FZt46BzssCpOsIC8v3VzCpeD0Yw9hQi22tAU_7FKDS5xI3kIGqL3lNtq60G5uTF9fqLeQRL7cVBueXSrZpWMW859bdytHEPJXxxuaQf.sxDT
 .faphouse2.com	TRUE	/	FALSE	0	locale	en
 .faphouse2.com	TRUE	/	TRUE	1806419351	aged-enough	1
 .faphouse2.com	TRUE	/	TRUE	1806419351	sex_orientation	straight
@@ -122,3 +112,9 @@ faphouse2.com	FALSE	/	TRUE	0	siteMode	mobile
 faphouse2.com	FALSE	/	FALSE	0	translate-video-titles	1
 faphouse2.com	FALSE	/	FALSE	1790435359	g_state	{"i_l":0,"i_ll":1774883359942,"i_b":"DmOshta7wpiR3whx0Lfam01TUGjSb9JIUS4wwoX7i1c","i_e":{"enable_itp_optimization":0}}
 faphouse2.com	FALSE	/	FALSE	0	user_device_theme	light
+.xhamster45.desi	TRUE	/	FALSE	1806426037	cookie_accept_v2	%7B%22e%22%3A1%2C%22f%22%3A1%2C%22t%22%3A1%2C%22a%22%3A1%7D
+.xhamster45.desi	TRUE	/	FALSE	1775494837	x_viewes	%5B18692180%5D
+.xhamster45.desi	TRUE	/	FALSE	1777482037	x_content_preference_index	straight
+.xhamster45.desi	TRUE	/	FALSE	1806426037	settings	eyJpc1dlYnBTdXBwb3J0ZWQiOm51bGwsImlzV2VibVN1cHBvcnRlZCI6bnVsbCwiZXh0RGV0ZWN0ZWRWMiI6bnVsbCwibW9tZW50c0lzSGlkZGVuIjpudWxsLCJpc1NpZGViYXJIaWRkZW4iOm51bGwsImV4cGlyZXMiOltdLCJ0c1Nwb3RDb3VudGVycyI6W3sic3BvdCI6Im1hc3Rlcl9mb290ZXIiLCJ0aW1lIjoxNzc0ODkwMDM4LCJjb3VudCI6MX0seyJzcG90IjoibWFzdGVyX3BsYXllcl9wYXVzZSIsInRpbWUiOjE3NzQ4OTAwMzgsImNvdW50IjoxfV19
+.xhamster45.desi	TRUE	/	TRUE	1777482038	_cfg	ce03d54b16a26145e1f2c28c26451a9c
+.xhamster45.desi	TRUE	/	FALSE	0	x_csrf_token	n4ap0WVCd_MZnqZ6sy1NdtRN2Fcfr4IP
